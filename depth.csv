@@ -1,2 +1,10 @@
-Year,Line,WR,WR,RB,FB,QB,LT,LG,C,RG,RT
+Year,Line,WR,WR,TE,RB,FB,QB,LT,LG,C,RG,RT
+2017,O1,Demaryius Thomas,Emmanuel Sanders,Virgil Green,CJ Anderson,Andy Janovich,Trevor Siemian,Russel Okung,Max Garcia,Matt Paradis,Michael Schofield,Donald Stephenson
+2017,O2,Bennie Fowler,Jordan Taylor,Jeff Heuerman,Devontae Booker,-,Paxton Lynch,-,-,-,-,-
+
+Year,Line,RE,NT,LE,LOLB,LILB,RILB,ROLB,LCB,RCB,SS,FS
+2017,D1,Jared Crick,Sylvester Williams,Derek Wolfe,DeMarcus Ware,Todd Davis,Brandon Marshall,Von Miller,Aqib Talib,Chris Harris,TJ Ward,Darian Stewart
+
+Year,Line,K,P
+2017,ST1,Brandon McManus,Riley Dixon
 
